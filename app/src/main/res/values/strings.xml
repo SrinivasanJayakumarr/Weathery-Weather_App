@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weathery</string>
+
+    <string name="city_name">City</string>
+    <string name="weather_status">Not Updated</string>
+    <string name="celcius">C</string>
+    <string name="degree">o</string>
+    <string name="farenheat">F</string>
+    <string name="heat_value">---</string>
+
+    <string name="wind_value">-.-</string>
+    <string name="wind_unit">mph</string>
+    <string name="pressu_value">----</string>
+    <string name="presuue_unit">hPa</string>
+    <string name="humidity_value">--</string>
+    <string name="humidity_unit">%</string>
+    <string name="pollution_value">--</string>
+    <string name="pollution_unit">%</string>
+
+    <string name="pollution_level">------</string>
+    <string name="pollution_good">Good</string>
+    <string name="time">12:00 AM</string>
+
+    <string name="todays_weather">Forecast Weather</string>
+
+    <string name="search_city">Search City</string>
+    <string name="forecast_info">* 12 hour forecast weather</string>
+    <string name="weathery">Weathery</string>
+    <string name="know_how_you_feel_from_outside">know how you feel from outside</string>
+</resources>
