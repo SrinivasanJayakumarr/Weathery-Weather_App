@@ -46,9 +46,13 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/splashScreen.png" width="150">
   <b>&ensp;</b>
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeScreen.png" width="150">
+  <b>&ensp;</b>
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/emptySearchBox.png" width="150">
+  <b>&ensp;</b>
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/queriedSearchBox.png" width="150">
+  <b>&ensp;</b>
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeQuried.png" width="150">
+  <b>&ensp;</b>
 </span>
 
 <span align="left">
