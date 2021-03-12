@@ -2,13 +2,13 @@
 
 ![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
 
-## _A Local tourism and simple weather app_
+## _A Weather app that gives uninterupted and seamless weather data_
 
 
 ### :scroll: Description
 
-App comporises of four cities of Tamilnadu, and each city has its tourist place,
-and we have weather for that particular city.
+Inside the app, we have a functionality to get live weather data for our current location and location search functionality too. We can get a live weather update
+for any _remote location_. App provides 12 hours of forecast weather data for a queried location.
 
 - Ease of use
 - User friendly
@@ -22,15 +22,18 @@ and we have weather for that particular city.
 
 ## :hammer_and_wrench: Libraries, Widgets and Tools
 
+- Batch Drawable Importer
+- ViewModel - LiveData
+- SharedPreferences - To store and retrieve data whenever the app is restarted
 - Card View
+- ImageView
 - Material Design Components
+- RecyclerView (Horizontal)
 - Picasso
 - Volley
 - OkHttp
 - <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap API</a>
 - JSON
-- ImageButton
-- ScrollView
 - and some minor tools, views and widgets
 
 ## :computer: Language
