@@ -56,7 +56,6 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
 </span>
 <br></br>
 <span align="left">
-  <b>&emsp;</b>
   <b> 1.Splash Screen </b>
   <b>&emsp;</b>
   <b> 2.Home Screen </b>
@@ -66,7 +65,6 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
   <b> 4.Queried SearchBox </b>
   <b>&emsp;</b>
   <b> 5.Location Updated Home Screen </b>
-  <b>&emsp;</b>
 </span>
 
 ## :iphone: Tested
