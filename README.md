@@ -1,4 +1,4 @@
-# ![Weathery](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/master)
+# <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/weathery_icon.png" width="70"> <a href="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/master" target="_blank">Weathery</a>
 
 ![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
 
@@ -43,15 +43,15 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
 ## :camera: ScreenShots
 
 <span align="center">
-  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/splashScreen.png" width="160">
+  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/splashScreen.png" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeScreen.png" width="160">
+  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeScreen.png" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/emptySearchBox.png" width="160">
+  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/emptySearchBox.png" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/queriedSearchBox.png" width="160">
+  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/queriedSearchBox.png" width="140">
   <b>&emsp;</b>
-  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeQuried.png" width="160">
+  <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeQuried.png" width="140">
   <b>&emsp;</b>
 </span>
 <br></br>
