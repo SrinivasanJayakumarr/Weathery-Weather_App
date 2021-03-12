@@ -44,10 +44,19 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
 
 <span align="center">
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/splashScreen.png" width="150">
+  <b>&ensp;</b>
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeScreen.png" width="150">
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/emptySearchBox.png" width="150">
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/queriedSearchBox.png" width="150">
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeQuried.png" width="150">
+</span>
+
+<span align="left">
+  <b> Splash Screen </b>
+  <b> Home Screen </b>
+  <b> Empty SearchBox </b>
+  <b> Queried SearchBox </b>
+  <b> Location Updated Home Screen </b>
 </span>
 
 ## :iphone: Tested
