@@ -57,15 +57,15 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
 <br></br>
 <span align="left">
   <b>&emsp;</b>
-  <b> Splash Screen </b>
+  <b> 1.Splash Screen </b>
   <b>&emsp;</b>
-  <b> Home Screen </b>
+  <b> 2.Home Screen </b>
   <b>&emsp;</b>
-  <b> Empty SearchBox </b>
+  <b> 3.Empty SearchBox </b>
   <b>&emsp;</b>
-  <b> Queried SearchBox </b>
+  <b> 4.Queried SearchBox </b>
   <b>&emsp;</b>
-  <b> Location Updated Home Screen </b>
+  <b> 5.Location Updated Home Screen </b>
   <b>&emsp;</b>
 </span>
 
