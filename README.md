@@ -1,6 +1,6 @@
 # ![Weathery](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/master)
 
-![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/First-App)](https://github.com/SrinivasanJayakumarr/First-App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
+![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
 
 ## _A Local tourism and simple weather app_
 
