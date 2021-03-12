@@ -54,13 +54,19 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
   <img src="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/blob/master/ScreenShots/homeQuried.png" width="150">
   <b>&emsp;</b>
 </span>
-
+<br></br>
 <span align="left">
+  <b>&emsp;</b>
   <b> Splash Screen </b>
+  <b>&emsp;</b>
   <b> Home Screen </b>
+  <b>&emsp;</b>
   <b> Empty SearchBox </b>
+  <b>&emsp;</b>
   <b> Queried SearchBox </b>
+  <b>&emsp;</b>
   <b> Location Updated Home Screen </b>
+  <b>&emsp;</b>
 </span>
 
 ## :iphone: Tested
